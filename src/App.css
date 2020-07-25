@@ -58,3 +58,9 @@
   font-size: 5em;
   padding: 8px;
 }
+
+.project-item {
+  display: flex;
+  position: absolute;
+  width: 100%;
+}
