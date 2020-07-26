@@ -37,7 +37,7 @@ class Resume extends Component {
                         <h5>GitHub</h5>
                         <a href="https://github.com/akkewacheiei" rel="noopener noreferrer" target="_blank"><p>https://github.com/akkewacheiei</p></a>
                         <h5>Website</h5>
-                        <a href="https://akkewacheiei.github.io" rel="noopener noreferrer" target="_blank"><p>https://akkewacheiei.github.io</p></a>
+                        <a href="https://akkewacheiei.github.io/myportfoliosite" rel="noopener noreferrer" target="_blank"><p>https://akkewacheiei.github.io/myportfoliosite</p></a>
                         <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
                     </Cell>
                     <Cell className="resume-right-col" col={8}>

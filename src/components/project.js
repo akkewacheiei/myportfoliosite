@@ -23,7 +23,7 @@ class Project extends Component {
                             <b>To do list - Web Application</b>
                         </CardText>
                         <CardActions border>
-                            <a href="https://github.com/akkewacheiei/todo-list" rel="noopener noreferrer" target="_blank">
+                            <a href="https://akkewacheiei.github.io/todo-list" rel="noopener noreferrer" target="_blank">
                                 <Button colored>Run</Button>
                             </a>
                             <a href="https://github.com/akkewacheiei/todo-list" rel="noopener noreferrer" target="_blank">
