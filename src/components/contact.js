@@ -9,7 +9,7 @@ class Contact extends Component {
                     <Cell col={6}>
                         <h2>Akkewach Yodsomboon</h2>
                         <img
-                            src="https://www.img.in.th/images/2f3917fd33ea79bf4da086f598218051.png" alt="avatar"
+                            src="https://www.img.in.th/images/d29723ecb2fa1764cc3814d15e7cb602.png"  alt="avatar"
                             style={{ height: '250px' }}
                         />
                         <p style={{ width: '75%', margin: 'auto', paddingTop: '1em' }}>

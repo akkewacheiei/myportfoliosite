@@ -59,8 +59,7 @@
   padding: 8px;
 }
 .project-item {
-  display: flex;
-  
+  display: flex;  
 }
 .contact-body {
   margin: auto;
@@ -95,5 +94,10 @@
 }
 .contact-grid i{
   font-size: 50px;
-  padding-right: 5rem;
+  padding-right: 3rem;
+}
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding:  2em;
 }

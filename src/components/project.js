@@ -85,7 +85,6 @@ class Project extends Component {
                     <Tab>Workshop</Tab>
                 </Tabs>
 
-
                 <Grid>
                     <Cell col={12}>
                         <div className="content">{this.toggleCategories()}</div>

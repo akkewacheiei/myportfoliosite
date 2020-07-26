@@ -8,14 +8,14 @@ class Landing extends Component {
                 <Grid className="landing-grid">
                     <Cell col={12}>
                         <img
-                            src="https://www.img.in.th/images/d29723ecb2fa1764cc3814d15e7cb602.png"
+                            src="https://www.img.in.th/images/f14afea96f0eee41a56d108be35eec00.png"
                             alt="avatar"
                             className="avatar-img"
                         />
                         <div className="banner-text">
                             <h1>Frontend Web Developer</h1>
                             <hr />
-                            <p><b>Skills :</b>  HTML/CSS | JavaScript | Bootstrap | React | Git Version Control</p>
+                            <p><b>Skills :</b>  HTML/CSS | JavaScript | Bootstrap | React.js | Git</p>
                             <div className="social-links">
                                 {/* Github */}
                                 <a href="https://github.com/akkewacheiei" rel="noopener noreferrer" target="_blank">
